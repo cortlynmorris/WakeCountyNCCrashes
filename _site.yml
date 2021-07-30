@@ -3,7 +3,5 @@ output_dir: "."
 navbar:
   title: "Visualizing, Modeling and Forecasting Crashes in Wake County, North Carolina"
   left:
-    - text: "Home"
-      href: index.html
     - text: "Project Report"
-      href: about.html
+      href: index.html
