@@ -1,4 +1,4 @@
-name: "WakeCountyNCCrashes""
+name: "WakeCountyNC-Crashes"
 output_dir: "."
 navbar:
   title: "Visualizing, Modeling and Forecasting Crashes in Wake County, North Carolina"
